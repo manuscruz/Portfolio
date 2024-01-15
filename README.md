@@ -8,7 +8,7 @@ Ol√°, eu sou Emanuelle! Um entusiasta de tecnologia e apaixonado por criar solu√
 
 ## Habilidades
 
-- Linguagens: HTML, CSS, JavaScript.
-- Frameworks: Express.js (Node.js), React, 
-- Ferramentas: Git, VS Code, Postman
+- Linguagens: HTML, CSS, JavaScript, Python.
+- Frameworks: Express.js (Node.js), React, Django.
+- Ferramentas: Git, VS Code, Postman.
 
